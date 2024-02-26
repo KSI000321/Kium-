@@ -16,7 +16,7 @@ run.py에는 각 이미지, csv파일, 모델들의 주소들을 포함하는 �
 ![image](https://github.com/KSI000321/git_practice/assets/122200920/3389c09c-f555-4672-97d8-c6230b5f3992)
 
   * #4 : SwinNet_ant_multilabel.pt - Timm
-  * #5 : ResNet_pos_multilabel.pt - torchvision
+  * #5 : ResNet_pos_multilabel.pt - torchvision (사진에선 SwinNet이라 잘못 표기)
   * #6 : MedNet_ant_binary.pt - https://huggingface.co/TencentMedicalNet/MedicalNet-Resnet10/blob/main/resnet_10.pth
   * #7 : MedNet_pos_binary.pt
 
