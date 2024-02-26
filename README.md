@@ -15,12 +15,10 @@ run.py에는 각 이미지, csv파일, 모델들의 주소들을 포함하는 �
 ### #4, #5, #6, #7 (trained model paths)
 ![image](https://github.com/KSI000321/git_practice/assets/122200920/3389c09c-f555-4672-97d8-c6230b5f3992)
 
-  * #4 : SwinNet_ant_multilabel.pt
-  * #5 : ResNet_pos_multilabel.pt
-  * #6 : MedNet_ant_binary.pt
+  * #4 : SwinNet_ant_multilabel.pt - Timm
+  * #5 : ResNet_pos_multilabel.pt - torchvision
+  * #6 : MedNet_ant_binary.pt - https://huggingface.co/TencentMedicalNet/MedicalNet-Resnet10/blob/main/resnet_10.pth
   * #7 : MedNet_pos_binary.pt
-[두 MedNet 모델의 경우 동일 모델로 transfer learning 진행
-https://huggingface.co/TencentMedicalNet/MedicalNet-Resnet10/blob/main/resnet_10.pth]
 
 ### #8 (output.csv save path)
 ![image](https://github.com/KSI000321/git_practice/assets/122200920/35adf274-fc08-42df-bed1-9e9d59dc8fa2)
