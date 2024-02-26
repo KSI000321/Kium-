@@ -1,3 +1,6 @@
+# K-ium 의료인공지능 최우수상
+![KakaoTalk_20240226_221151059](https://github.com/KSI000321/Kium-/assets/122200920/5c5864a1-51a0-42a0-ade3-2fda806b5ec2)
+
 # run.py 실행 방법
 
 ## 파일 경로 수정
