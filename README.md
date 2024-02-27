@@ -1,5 +1,5 @@
 # K-ium 의료인공지능 최우수상
-[scan.pdf](https://github.com/KSI000321/Kium-/files/14414426/scan.pdf)
+[scan.pdf](https://github.com/KSI000321/Kium-/files/14414437/scan.pdf)
 
 # run.py 실행 방법
 
