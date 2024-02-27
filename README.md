@@ -1,5 +1,5 @@
 # K-ium 의료인공지능 최우수상
-[스캔 2023년 10월 10일 (1).pdf](https://github.com/KSI000321/Kium-/files/14414355/2023.10.10.1.pdf)
+
 
 
 # run.py 실행 방법
