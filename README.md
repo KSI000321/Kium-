@@ -1,5 +1,6 @@
 # K-ium 의료인공지능 최우수상
-![KakaoTalk_20240226_221151059](https://github.com/KSI000321/Kium-/assets/122200920/5c5864a1-51a0-42a0-ade3-2fda806b5ec2)
+[스캔 2023년 10월 10일 (1).pdf](https://github.com/KSI000321/Kium-/files/14414355/2023.10.10.1.pdf)
+
 
 # run.py 실행 방법
 
